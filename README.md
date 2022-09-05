@@ -11,4 +11,4 @@ The function should...
 
 Print out the result of calling the function on a list to test it out.
 
-You can also run the tests to check if your function is correct.
+Run the automated tests to check if your function is correct.
