@@ -7,6 +7,6 @@ Write a function called `smallest_list_item` that returns the smallest item in a
 
 ## Expected Results
 
-Run your function with a test list and print out the results to check that your code is correct.
+Run your function, passing in some test lists, and print out the results to check that your code is correct.
 
-You can also run the tests to check your solution.
+Then, run the automated tests to check your solution.
