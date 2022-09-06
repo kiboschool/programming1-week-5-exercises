@@ -9,3 +9,9 @@ For this assignment, you must write 4 functions. Each function should take in a 
 `lbs_to_kg` should take a value in pounds, and return a value in kilograms.
 
 `kg_to_lbs` should take a value in kilograms, and return a value in pounds.
+
+## Testing
+
+Test out your functions manually by printing the results.
+
+Then, test your code using the automated tests by running `python3 test.py`.
