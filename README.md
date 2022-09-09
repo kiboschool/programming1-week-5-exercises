@@ -9,4 +9,4 @@ Write a function `double_elements` that doubles all the elements in a list.
 
 Call your function with a sample list and print the results to check that it's working.
 
-You can also run the tests to verify your solution.
+You can also run the tests to verify your solution, like `python3 test.py`
