@@ -5,11 +5,11 @@ in class.  Each exercise is required.
 
 ## Required Exercises
 
-There are three exercises to complete:
+There are four exercises to complete:
 
 1. **add-list-numbers**: Write a function called that calculates the sum of all numbers in a list.
 
-3. **double-list-elements**: Write a function that doubles all the elements in a list.
+2. **double-list-elements**: Write a function that doubles all the elements in a list.
 
 3. **smallest-item-in-a-list**: Write a function that returns the smallest item in a list of numbers.
 
